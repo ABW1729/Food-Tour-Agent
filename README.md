@@ -22,8 +22,8 @@ A smart AI agent that crafts detailed one-day foodie itineraries for cities base
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-dir>
+   git clone https://github.com/ABW1729/Food-Tour-Agent.git
+   cd Food-Tour-Agent
    ```
 
 2. **Install dependencies**:
